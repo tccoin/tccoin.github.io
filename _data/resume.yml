@@ -1,0 +1,12 @@
+# IMPORTANT: Set this to false.
+demo: false
+
+# Theme customization is done on this file instead of _config.yml so that
+# you don't have to restart Jekyll to see changes.
+
+photo: "images/wu.jpg"
+name: "Junzhe Wu"
+copy: "Master's student at the University of Michigan.<br> Expected graduation date: Apr 2023."
+
+# Color scheme based on http://www.materialui.co/colors.
+color: default
