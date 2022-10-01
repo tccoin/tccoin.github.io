@@ -1,0 +1,8 @@
+I"<ul>
+  <li>Used Polymer framework (featured with web components) to reduce coupling.</li>
+  <li>Customized Markdown syntax interpreter and render combining with open-source projects.</li>
+  <li>Applied PWA for precise control of web caches and offline access just like native apps.</li>
+  <li>Employed serverless database for dynamic data storage, and Alibaba Cloud for static files.</li>
+  <li>Realized file uploading functions with Node.js and completed image processing and transcoding with OpenCV, Sharp and OptiPNG.</li>
+</ul>
+:ET

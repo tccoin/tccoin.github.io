@@ -1,0 +1,7 @@
+I"î<ul>
+  <li>Built a SLAM system from scratch using ROS, including FCOS network for object detection, an OpenCV frontend, and a GTSAM backend with loop-closing.</li>
+  <li>Trained FCOS network to extract object positions in the scene and further optimized in the backend.</li>
+  <li>Improved feature matching to 300 matches per frame in frontend with correspondence search.</li>
+  <li>Used factor graphs and GTSAM to optimize and fuse factors like SIFT/ORB features, IMU, and objects.</li>
+</ul>
+:ET

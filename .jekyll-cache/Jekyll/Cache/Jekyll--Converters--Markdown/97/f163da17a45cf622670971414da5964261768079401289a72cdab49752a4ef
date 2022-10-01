@@ -1,0 +1,7 @@
+I"�<ul>
+  <li>Detected bounding boxes of objects with CenterNet, then obtained 3D positions with depth images.</li>
+  <li>Designed a Moveit controller with Gazebo simulation and a “pick and place” workflow.</li>
+  <li>Implemented 200Hz host-client communication between Nvidia Jetson TX2 and STM32.</li>
+  <li>Used an STM32 embedded system library CornerStone with RTOS to control the robot.</li>
+</ul>
+:ET

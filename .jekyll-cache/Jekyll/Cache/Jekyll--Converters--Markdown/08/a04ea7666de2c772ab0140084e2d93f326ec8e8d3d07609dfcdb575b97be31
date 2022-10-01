@@ -1,0 +1,6 @@
+I"¸<ul>
+  <li>Obtained the original sample data of Dingxiangyuan (a medical knowledge sharing website) rumors and joint anti-rumor platform on the Internet with Python crawler.</li>
+  <li>Segmented the corpus with Jieba, calculated word vectors and text relevance using SBERT, and applied BIRCH clustering and high frequency words analysis.</li>
+  <li>Conducted fine-tuning of BERT models to realize semantic inferences (also NLI).</li>
+</ul>
+:ET

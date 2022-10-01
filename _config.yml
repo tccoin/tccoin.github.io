@@ -1,9 +1,16 @@
-baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "http://localhost:4000/resumecards/" # the base hostname & protocol for your site
+# User config
+author: "Junzhe Wu"
+tagline: "Junzhe Wu Personal Website"
+description: "Master's student @ University of Michigan.<br> Expected graduation date: Apr 2023."
+research: "Robotics, Computer Vision, Deep Learning."
+keywords: "Robotics,Computer Vision,Deep Learning"
+email: "junzhewu@umich.edu"
+linkedin: "https://www.linkedin.com/in/junzhewu/"
+github: "https://github.com/tccoin"
 
-exclude:
-  - "README.md"
-  - "CHANGELOG.md"
-  - "CNAME"
-  - "Gemfile"
-  - "Gemfile.lock"
+# Site config
+baseurl: ""
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed

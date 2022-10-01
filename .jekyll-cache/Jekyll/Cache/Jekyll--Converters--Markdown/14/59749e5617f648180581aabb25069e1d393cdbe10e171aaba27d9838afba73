@@ -1,0 +1,6 @@
+I"F<ul>
+  <li>Built an Unreal Engine simulator of a real cashier-less store to provide training data.</li>
+  <li>Used OpenPose to extract the positions of human hands and trained YOLO to identify products.</li>
+  <li>Explored problems like illumination changes, occlusion, and system accuracy to different skin tones.</li>
+</ul>
+:ET

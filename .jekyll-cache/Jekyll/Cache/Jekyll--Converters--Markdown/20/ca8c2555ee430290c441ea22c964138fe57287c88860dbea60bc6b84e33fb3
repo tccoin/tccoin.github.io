@@ -1,0 +1,6 @@
+I"_<ul>
+  <li>Encapsulated STM32 functions such as BSP, PID control, actuating, host-client communication, etc.</li>
+  <li>Designed OOP interface with sensor pipeline architecture to seperate algorithms with robot workflow.</li>
+  <li>Distributed to 8 different robots in the lab with CI/CD tools and Git collaboration across 15 contributors.</li>
+</ul>
+:ET

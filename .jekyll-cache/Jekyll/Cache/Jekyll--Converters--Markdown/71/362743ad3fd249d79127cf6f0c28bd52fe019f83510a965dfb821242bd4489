@@ -1,0 +1,7 @@
+I"³<ul>
+  <li>Developed a combined system to detect and locate pedestrians and estimate their biological information. Implemented gesture control based on individual interactions.</li>
+  <li>Obtained 720P RGBD images with a 3-D TOF infrared camera.</li>
+  <li>Applied YOLO and a separate CNN model to identify pedestrians and guess their age and gender.</li>
+  <li>Used Leap Motion for tracking gestures in close interactions.</li>
+</ul>
+:ET
